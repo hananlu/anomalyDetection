@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import pandas as pd
 import joblib
@@ -352,5 +351,4 @@ if uploaded_file:
         csv,
         "network_predictions.csv",
         "text/csv"
->>>>>>> 1cd948768f3a51ffc16d4e12c644ee23431ca93e
     )
